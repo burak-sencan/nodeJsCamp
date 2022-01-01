@@ -1,0 +1,2 @@
+Hello from starter.txt file
+ Append text  to promisWrite file
