@@ -1,0 +1,17 @@
+{
+  "name": "lesson4-eventemitter",
+  "version": "1.0.0",
+  "description": "event emitter demo",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index",
+    "dev": "nodemon index"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "date-fns": "^2.28.0",
+    "nodemon": "^2.0.15",
+    "uuid": "^8.3.2"
+  }
+}
