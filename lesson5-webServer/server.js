@@ -22,8 +22,8 @@ const serveFile = async (filePath, contentType, response) => {
   }
 };
 const server = http.createServer((req, res) => {
-  console.log("req.url: ", req.url, "\t", "req.method: ", req.method);
 
+  console.log("req.url: ", req.url, "\t", "req.method: ", req.method);
   /* her url veya dosya için bu verimsiz if yöntemini veya switch-case
   yöntemini kullanmak yerine daha dinamik bir yapı olusturalım
 */
