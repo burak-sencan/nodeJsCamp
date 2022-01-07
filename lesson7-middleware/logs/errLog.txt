@@ -1,0 +1,1 @@
+07.01.2022 - 15:59:41    20da40d3-3188-4595-aa45-7780587fc38d    Error: not allowed by CORS
