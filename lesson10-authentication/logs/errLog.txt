@@ -1,0 +1,6 @@
+07.01.2022 - 15:59:41    20da40d3-3188-4595-aa45-7780587fc38d    Error: not allowed by CORS
+10.01.2022 - 17:30:02    49349c5b-bc93-4696-8fee-4105baa3e982    TypeError: unsortedArray.sort is not a function
+10.01.2022 - 17:32:51    b01add28-adc3-4152-8090-f177da6792d2    TypeError: Cannot read properties of undefined (reading 'find')
+10.01.2022 - 17:34:40    8d791eca-bf38-495f-9ae1-6ec4e7fc8611    TypeError: Cannot read properties of undefined (reading 'find')
+10.01.2022 - 17:35:00    4db210c8-e2d3-47ef-a684-f7aa5bdd49ef    TypeError: Cannot read properties of undefined (reading 'find')
+11.01.2022 - 23:34:39    a41cb0a0-03c3-43ad-8ed4-ed9e87bfa3cb    SyntaxError: Unexpected token } in JSON at position 23
